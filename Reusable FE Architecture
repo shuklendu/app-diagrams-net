@@ -1,174 +1,174 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T08:03:26.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="jNXYXf7QUFCnIo1Hb6Ub" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-27T04:47:49.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="Aw9ZNet27YGnn8yjaJhk" version="20.0.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="782" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xnqTP8RN207u3Mep6AWa-46" value="Export Node Module" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.455;entryY=0.202;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xnqTP8RN207u3Mep6AWa-7" target="xnqTP8RN207u3Mep6AWa-45">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-46" value="Export Node Module" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.455;entryY=0.202;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xnqTP8RN207u3Mep6AWa-7" target="xnqTP8RN207u3Mep6AWa-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-7" value="ps-ng Anglular Library Project" style="swimlane;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-7" value="ps-ng Anglular Library Project" style="swimlane;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="760" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-10" value="AutosearchModule" style="swimlane;labelBorderColor=default;dashed=1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-7">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-10" value="AutosearchModule" style="swimlane;labelBorderColor=default;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xnqTP8RN207u3Mep6AWa-7" vertex="1">
           <mxGeometry x="50" y="40" width="160" height="80" as="geometry">
             <mxRectangle x="20" y="30" width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-11" value="Autosearch&lt;br&gt;Component" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-10">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-11" value="Autosearch&lt;br&gt;Component" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="xnqTP8RN207u3Mep6AWa-10" vertex="1">
           <mxGeometry x="15" y="30" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-12" value="" style="shape=module;jettyWidth=8;jettyHeight=4;dashed=1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-11">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-12" value="" style="shape=module;jettyWidth=8;jettyHeight=4;dashed=1;" parent="xnqTP8RN207u3Mep6AWa-11" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-13" value="CardModule" style="swimlane;labelBorderColor=default;dashed=1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-7">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-13" value="CardModule" style="swimlane;labelBorderColor=default;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xnqTP8RN207u3Mep6AWa-7" vertex="1">
           <mxGeometry x="220" y="40" width="160" height="80" as="geometry">
             <mxRectangle x="20" y="30" width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-14" value="Card&lt;br&gt;Component" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-13">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-14" value="Card&lt;br&gt;Component" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="xnqTP8RN207u3Mep6AWa-13" vertex="1">
           <mxGeometry x="15" y="30" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-15" value="" style="shape=module;jettyWidth=8;jettyHeight=4;dashed=1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-14">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-15" value="" style="shape=module;jettyWidth=8;jettyHeight=4;dashed=1;" parent="xnqTP8RN207u3Mep6AWa-14" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-16" value="DatepickerModule" style="swimlane;labelBorderColor=default;dashed=1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-7">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-16" value="DatepickerModule" style="swimlane;labelBorderColor=default;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xnqTP8RN207u3Mep6AWa-7" vertex="1">
           <mxGeometry x="390" y="40" width="160" height="80" as="geometry">
             <mxRectangle x="20" y="30" width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-17" value="Datepicker&lt;br&gt;Component" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-16">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-17" value="Datepicker&lt;br&gt;Component" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="xnqTP8RN207u3Mep6AWa-16" vertex="1">
           <mxGeometry x="15" y="30" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-18" value="" style="shape=module;jettyWidth=8;jettyHeight=4;dashed=1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-17">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-18" value="" style="shape=module;jettyWidth=8;jettyHeight=4;dashed=1;" parent="xnqTP8RN207u3Mep6AWa-17" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-19" value="DropdownModule" style="swimlane;labelBorderColor=default;dashed=1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-7">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-19" value="DropdownModule" style="swimlane;labelBorderColor=default;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xnqTP8RN207u3Mep6AWa-7" vertex="1">
           <mxGeometry x="560" y="40" width="160" height="80" as="geometry">
             <mxRectangle x="20" y="30" width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-20" value="NgSelect&lt;br&gt;Module" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-19">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-20" value="NgSelect&lt;br&gt;Module" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="xnqTP8RN207u3Mep6AWa-19" vertex="1">
           <mxGeometry x="15" y="30" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-21" value="" style="shape=module;jettyWidth=8;jettyHeight=4;dashed=1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-20">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-21" value="" style="shape=module;jettyWidth=8;jettyHeight=4;dashed=1;" parent="xnqTP8RN207u3Mep6AWa-20" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-22" value="FormWizardModule" style="swimlane;labelBorderColor=default;dashed=1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-7">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-22" value="FormWizardModule" style="swimlane;labelBorderColor=default;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xnqTP8RN207u3Mep6AWa-7" vertex="1">
           <mxGeometry x="50" y="140" width="160" height="80" as="geometry">
             <mxRectangle x="20" y="30" width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-23" value="CdkStepper&lt;br&gt;Module" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-22">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-23" value="CdkStepper&lt;br&gt;Module" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="xnqTP8RN207u3Mep6AWa-22" vertex="1">
           <mxGeometry x="15" y="30" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-24" value="" style="shape=module;jettyWidth=8;jettyHeight=4;dashed=1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-23">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-24" value="" style="shape=module;jettyWidth=8;jettyHeight=4;dashed=1;" parent="xnqTP8RN207u3Mep6AWa-23" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-25" value="GraphsModule" style="swimlane;labelBorderColor=default;dashed=1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-7">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-25" value="GraphsModule" style="swimlane;labelBorderColor=default;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xnqTP8RN207u3Mep6AWa-7" vertex="1">
           <mxGeometry x="220" y="140" width="160" height="80" as="geometry">
             <mxRectangle x="20" y="30" width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-26" value="NgxEcharts&lt;br&gt;Module" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-25">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-26" value="NgxEcharts&lt;br&gt;Module" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="xnqTP8RN207u3Mep6AWa-25" vertex="1">
           <mxGeometry x="15" y="30" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-27" value="" style="shape=module;jettyWidth=8;jettyHeight=4;dashed=1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-26">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-27" value="" style="shape=module;jettyWidth=8;jettyHeight=4;dashed=1;" parent="xnqTP8RN207u3Mep6AWa-26" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-28" value="MapModule" style="swimlane;labelBorderColor=default;dashed=1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-7">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-28" value="MapModule" style="swimlane;labelBorderColor=default;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xnqTP8RN207u3Mep6AWa-7" vertex="1">
           <mxGeometry x="390" y="140" width="160" height="80" as="geometry">
             <mxRectangle x="20" y="30" width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-29" value="Open Layers&lt;br&gt;Map Component" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-28">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-29" value="Open Layers&lt;br&gt;Map Component" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="xnqTP8RN207u3Mep6AWa-28" vertex="1">
           <mxGeometry x="15" y="30" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-30" value="" style="shape=module;jettyWidth=8;jettyHeight=4;dashed=1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-29">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-30" value="" style="shape=module;jettyWidth=8;jettyHeight=4;dashed=1;" parent="xnqTP8RN207u3Mep6AWa-29" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-31" value="MegaMenuModule" style="swimlane;labelBorderColor=default;dashed=1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-7">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-31" value="MegaMenuModule" style="swimlane;labelBorderColor=default;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xnqTP8RN207u3Mep6AWa-7" vertex="1">
           <mxGeometry x="560" y="140" width="160" height="80" as="geometry">
             <mxRectangle x="20" y="30" width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-32" value="MegaMenu&lt;br&gt;Component" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-31">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-32" value="MegaMenu&lt;br&gt;Component" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="xnqTP8RN207u3Mep6AWa-31" vertex="1">
           <mxGeometry x="15" y="30" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-33" value="" style="shape=module;jettyWidth=8;jettyHeight=4;dashed=1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-32">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-33" value="" style="shape=module;jettyWidth=8;jettyHeight=4;dashed=1;" parent="xnqTP8RN207u3Mep6AWa-32" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-34" value="MegaMenuModule" style="swimlane;labelBorderColor=default;dashed=1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-7">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-34" value="MegaMenuModule" style="swimlane;labelBorderColor=default;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xnqTP8RN207u3Mep6AWa-7" vertex="1">
           <mxGeometry x="220" y="240" width="160" height="80" as="geometry">
             <mxRectangle x="20" y="30" width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-35" value="CdkStepper&lt;br&gt;Module" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-34">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-35" value="CdkStepper&lt;br&gt;Module" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="xnqTP8RN207u3Mep6AWa-34" vertex="1">
           <mxGeometry x="15" y="30" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-36" value="" style="shape=module;jettyWidth=8;jettyHeight=4;dashed=1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-35">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-36" value="" style="shape=module;jettyWidth=8;jettyHeight=4;dashed=1;" parent="xnqTP8RN207u3Mep6AWa-35" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-37" value="GraphsModule" style="swimlane;labelBorderColor=default;dashed=1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-7">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-37" value="GraphsModule" style="swimlane;labelBorderColor=default;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="xnqTP8RN207u3Mep6AWa-7" vertex="1">
           <mxGeometry x="390" y="240" width="160" height="80" as="geometry">
             <mxRectangle x="20" y="30" width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-38" value="NgxEcharts&lt;br&gt;Module" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-37">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-38" value="NgxEcharts&lt;br&gt;Module" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="xnqTP8RN207u3Mep6AWa-37" vertex="1">
           <mxGeometry x="15" y="30" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-39" value="" style="shape=module;jettyWidth=8;jettyHeight=4;dashed=1;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-38">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-39" value="" style="shape=module;jettyWidth=8;jettyHeight=4;dashed=1;" parent="xnqTP8RN207u3Mep6AWa-38" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xnqTP8RN207u3Mep6AWa-45" target="xnqTP8RN207u3Mep6AWa-51">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xnqTP8RN207u3Mep6AWa-45" target="xnqTP8RN207u3Mep6AWa-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-55" value="Install ps-ng node module in project" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xnqTP8RN207u3Mep6AWa-53">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-55" value="Install ps-ng node module in project" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xnqTP8RN207u3Mep6AWa-53" vertex="1" connectable="0">
           <mxGeometry x="0.3422" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xnqTP8RN207u3Mep6AWa-45" target="xnqTP8RN207u3Mep6AWa-52">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xnqTP8RN207u3Mep6AWa-45" target="xnqTP8RN207u3Mep6AWa-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-57" value="Install ps-ng node module in project" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xnqTP8RN207u3Mep6AWa-54">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-57" value="Install ps-ng node module in project" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xnqTP8RN207u3Mep6AWa-54" vertex="1" connectable="0">
           <mxGeometry x="0.3685" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-45" value="ps-ng node module" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_node.svg;dashPattern=1 1;labelBorderColor=default;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-45" value="ps-ng node module" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_node.svg;dashPattern=1 1;labelBorderColor=default;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="369.49" y="430" width="100.51" height="98.5" as="geometry" />
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-51" value="Angular Project 1" style="swimlane;labelBorderColor=default;align=center;" vertex="1" parent="1">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-51" value="Angular Project 1" style="swimlane;labelBorderColor=default;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="160" y="610" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-58" value="import required ps-ng module in&lt;br&gt;angular module and start using it" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-51">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-58" value="import required ps-ng module in&lt;br&gt;angular module and start using it" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="xnqTP8RN207u3Mep6AWa-51" vertex="1">
           <mxGeometry y="40" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-52" value="Angular Project 2" style="swimlane;labelBorderColor=default;" vertex="1" parent="1">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-52" value="Angular Project 2" style="swimlane;labelBorderColor=default;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="480" y="610" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xnqTP8RN207u3Mep6AWa-59" value="import required ps-ng module in&lt;br&gt;angular module and start using it" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xnqTP8RN207u3Mep6AWa-52">
+        <mxCell id="xnqTP8RN207u3Mep6AWa-59" value="import required ps-ng module in&lt;br&gt;angular module and start using it" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="xnqTP8RN207u3Mep6AWa-52" vertex="1">
           <mxGeometry y="40" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
